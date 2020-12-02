@@ -9,8 +9,7 @@ package main
 import "fmt"
 
 func main() {
-	aboutMe := "喜欢研究安全工具 & 努力成为安全研究员"
-	fmt.Printf("\r现状：nil")
+	aboutMe := "喜欢研究安全工具 & learning"
 	for {
 		fmt.Printf("\r%s %s", "buzz", aboutMe)
 	}
