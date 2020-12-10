@@ -1,6 +1,4 @@
 ## Hi👋
-> plug away!
-
 ![](https://komarev.com/ghpvc/?username=Buzz2d0&color=green)
 ![](https://img.shields.io/badge/lang-go|py|js|java|c-red)
 
