@@ -2,7 +2,7 @@
 
 
 - :computer: Improve Go/C++ Programming level.
-- :sunflower: Research security & weaponization development.
+- :sunflower: Research secure & weaponization development.
 - :palm_tree: Learn malicious virus related technologies.
 
 <details>
