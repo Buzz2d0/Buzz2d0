@@ -1,9 +1,4 @@
-#### :neckbeard: Stupid Buzz
-
-
-- :computer: Improve Go/C++ Programming level.
-- :sunflower: Research security & weaponization development.
-- :palm_tree: Learn malicious virus related technologies.
+#### :neckbeard:
 
 <details>
   <summary><b><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Things to know about me!</b></summary>
