@@ -4,8 +4,8 @@ Nobody <img src="https://camo.githubusercontent.com/e6d51735f482c2f3ea76d168cba6
 - ![](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple) ![](https://img.shields.io/badge/vscode-292e33?style=flat-square&logo=visual-studio-code) ![](https://img.shields.io/badge/-292e33?style=flat-square&logo=linux) ![](https://img.shields.io/badge/-292e33?style=flat-square&logo=go) ![](https://img.shields.io/badge/-292e33?style=flat-square&logo=python)  ![](https://img.shields.io/badge/-292e33?style=flat-square&logo=windows-terminal) ![](https://img.shields.io/badge/-292e33?style=flat-square&logo=docker)  ![](https://img.shields.io/badge/-292e33?style=flat-square&logo=dell) ![](https://img.shields.io/badge/-292e33?style=flat-square&logo=raspberry-pi)...
 
 ### Security/Coding🥬
-- [Taser](https://github.com/Buzz2d0/taser) A passive web vulnerability security scanning tool(under development|🐦🐦🐦).
-- [Hyuga](https://github.com/Buzz2d0/Hyuga) A monitoring tool for recording DNS queries and HTTP requests.
+- [Taser](https://github.com/Buzz2d0/taser) Taser of bounty hunter(under development|🐦🐦🐦).
+- [Hyuga](https://github.com/Buzz2d0/Hyuga) 用来记录DNS查询和HTTP请求的监控工具
 - [WebHunt](https://github.com/Buzz2d0/WebHunt) A command line tool for analyzing web components for security testing. 
 - [SecTools](https://github.com/Buzz2d0/SecTools): MySQLMonitor,...
 
